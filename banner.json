@@ -1,6 +1,7 @@
-[
+{
   "banners": [
     "https://raw.githubusercontent.com/mac-donal/banner/main/banner1.jpg",
     "https://raw.githubusercontent.com/mac-donal/banner/main/banner2.jpg",
     "https://raw.githubusercontent.com/mac-donal/banner/main/banner3.jpg"
-]
+  ]
+}
