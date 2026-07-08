@@ -1,8 +1,7 @@
 {
   "events": [
-    "https://github.com/mac-donal/banner/releases/download/banner/banner1.webp",
-    "https://github.com/mac-donal/banner/releases/download/banner/banner2.webp",
-    "https://github.com/mac-donal/banner/releases/download/banner/banner3.webp",
-    "https://github.com/mac-donal/banner/releases/download/banner/banner4.webp"
+    "https://picsum.photos/1280/360?1",
+    "https://picsum.photos/1280/360?2",
+    "https://picsum.photos/1280/360?3"
   ]
 }
